@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+plots/
+plots*
+test*
 
 # C extensions
 *.so
